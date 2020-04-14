@@ -2,7 +2,7 @@
 
 # 3つの数の整列
 
-  [問題はこちら](https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/1/ITP1_1_C)
+  [問題はこちら](https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/2/ITP1_2_C)
 
 
 ## 発想
