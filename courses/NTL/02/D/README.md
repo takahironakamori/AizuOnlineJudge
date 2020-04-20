@@ -34,5 +34,6 @@ int main() {
 ## コード（Python3）
 ```python3
 A, B = map(int, input().split())
-print(A * B)
+C = abs(A)//abs(B)
+print(-C if A^B < 0 else C)
 ```
